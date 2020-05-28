@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Useful Web Based Apps/Links
+Because I don't like bookmarks.
 
-You can use the [editor on GitHub](https://github.com/delabj/usefulweb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Data Viz
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [Color Picker From Image](https://html-color-codes.info/colors-from-image/)
+* [Color Palette Generator](https://coolors.co/)
+* [{`ggplot2`}: Rotate x axis labels](https://gist.github.com/benmarwick/8b95b8fb226986bd86a47ad92e0017f2)
+* [Financial Times Visual Vocabulary](https://raw.githubusercontent.com/ft-interactive/chart-doctor/master/visual-vocabulary/poster.png)
+* [R graph gallery](https://www.r-graph-gallery.com/)
+* [Table Design](https://blog.datawrapper.de/guide-what-to-consider-when-creating-tables/)
+* [Color Tools in Data Viz](https://blog.datawrapper.de/colorguide/)
+* [Data To Viz (Gallery)](https://www.data-to-viz.com/)
+* [One big Thing in R (Ridgeline of interest](https://rud.is/b/2019/12/27/short-attention-span-theatre-reproducing-axios-1-big-thing-google-trends-2019-news-in-review-with-ggplot2/)
+* [{`ggplot2`}: Tutorial List](https://github.com/erikgahner/awesome-ggplot2)
+ 
+### Data Cleaning
 
-### Markdown
+* [Date/Time Cheatsheet](https://devhints.io/datetime)
+* [Regex Tester](https://regexr.com/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Stats
+* [Wonderful Simpsons Paradox Walkthrough](https://www.forrestthewoods.com/blog/my_favorite_paradox/)
+* [Visualizing Residuals](https://drsimonj.svbtle.com/visualising-residuals)
 
-```markdown
-Syntax highlighted code block
+### Interesting Data Sets
+* [Candy Heart Phrases](https://github.com/janelleshane/candy-hearts/blob/master/input_original.txt)
+* [Google Trends with R](https://www.rubenvezzoli.online/bulk-download-data-google-trends-r/)
 
-# Header 1
-## Header 2
-### Header 3
+### Assorted Coding Tutorials
 
-- Bulleted
-- List
+* [SQL resources](https://brohrer.github.io/sql_resources.html)
+* [Webscraping options](https://github.com/cassidoo/scrapers)
+* [D3.js (2018) Tutorial](https://curran.github.io/dataviz-course-2018/)
+* [Advanced R Style Guide](http://adv-r.had.co.nz/Style.html)
+* [Markdown to Google Slides](https://github.com/gsuitedevs/md2googleslides)
+* [Intro to d3.js](https://wattenberger.com/blog/d3)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Random
 
-[Link](url) and ![Image](src)
-```
+* [Website Launch Checklist](https://github.com/greghub/website-launch-checklist)
+* [Use Google Sheets as a CMS Service](https://blog.usejournal.com/how-to-use-google-sheets-as-a-cms-or-a-database-f9d8e736fdce)
+* [Make Grid Paper](http://gridzzly.com/)
+* [Where Republican & Democats live](https://projects.fivethirtyeight.com/republicans-democrats-cities/)
+* [Shiny with Excel](https://appsilon.com/forget-about-excel-use-r-shiny-packages-instead/)
+* [LaTex to CV Guide](https://www.overleaf.com/project/5d934d0869e4b40001ba84ae)
+* [Drafting paper font](https://creativemarket.com/vectortatu/1005702-Drafting-paper-alphabet)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/delabj/usefulweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
