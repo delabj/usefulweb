@@ -46,4 +46,5 @@ Because I don't like bookmarks.
 * [Shiny with Excel](https://appsilon.com/forget-about-excel-use-r-shiny-packages-instead/)
 * [LaTex to CV Guide](https://www.overleaf.com/project/5d934d0869e4b40001ba84ae)
 * [Drafting paper font](https://creativemarket.com/vectortatu/1005702-Drafting-paper-alphabet)
+* [RMD Slider for plots](https://github.com/yonicd/slickR)
 
