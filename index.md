@@ -14,6 +14,7 @@ Because I don't like bookmarks.
 * [One big Thing in R (Ridgeline of interest](https://rud.is/b/2019/12/27/short-attention-span-theatre-reproducing-axios-1-big-thing-google-trends-2019-news-in-review-with-ggplot2/)
 * [{`ggplot2`}: Tutorial List](https://github.com/erikgahner/awesome-ggplot2)
 * [Increase the quality of your ggplots](https://www.williamrchase.com/post/custom-fonts-and-plot-quality-with-ggplot-on-windows/)
+* [{`ggplot2`}: Managing sizes between rendering and saving. ](https://t.co/kELor6SqZH?amp=1)
  
 ### Data Cleaning
 
