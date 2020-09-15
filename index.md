@@ -15,6 +15,7 @@ Because I don't like bookmarks.
 * [{`ggplot2`}: Tutorial List](https://github.com/erikgahner/awesome-ggplot2)
 * [Increase the quality of your ggplots](https://www.williamrchase.com/post/custom-fonts-and-plot-quality-with-ggplot-on-windows/)
 * [{`ggplot2`}: Managing sizes between rendering and saving. ](https://t.co/kELor6SqZH?amp=1)
+* [Generate a color palette with Adobe](https://color.adobe.com/create/color-wheel)
  
 ### Data Cleaning
 
